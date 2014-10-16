@@ -1,6 +1,8 @@
 akaze-opencv
 ============
 
+# AKAZE is officially supported by OpenCV since 3.0.0 alpha. Please use it instead of this repo.
+
 wrap AKAZE features implementatino to cv::Feature2D API without rebuilding OpenCV
 
 ## Usage
